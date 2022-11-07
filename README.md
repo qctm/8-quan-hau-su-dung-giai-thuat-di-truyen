@@ -1,6 +1,4 @@
-=========================
-Nguyễn Quốc Trầm B1913276
-=========================
+#Nguyễn Quốc Trầm B1913276
 
 Đề tài:
 Bài toán 8 quân hậu (N-Queen) sử dụng giải thuật di truyền
